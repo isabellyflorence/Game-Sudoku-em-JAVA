@@ -46,6 +46,7 @@ Sudoku/
 Abra o terminal dentro da pasta `src` e execute:
 
 javac *.java
+
 3️⃣ Executar
 
 java Main
