@@ -47,7 +47,7 @@ Abra o terminal dentro da pasta `src` e execute:
 
 javac *.java
 
-3️⃣ Executar
+### 3️⃣ Executar
 
 java Main
 O programa iniciará no terminal e exibirá o tabuleiro, solicitando as jogadas do usuário.
